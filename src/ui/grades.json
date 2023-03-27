@@ -1,0 +1,162 @@
+[
+    {
+        "st_id": "BX6T",
+        "as_id": "A14",
+        "grade": 0
+    },
+    {
+        "st_id": "BX6T",
+        "as_id": "A35",
+        "grade": 0
+    },
+    {
+        "st_id": "0EWM",
+        "as_id": "A24",
+        "grade": 10
+    },
+    {
+        "st_id": "0EWM",
+        "as_id": "A19",
+        "grade": 2
+    },
+    {
+        "st_id": "80PV",
+        "as_id": "A31",
+        "grade": 7
+    },
+    {
+        "st_id": "80PV",
+        "as_id": "A23",
+        "grade": 10
+    },
+    {
+        "st_id": "8XCI",
+        "as_id": "A22",
+        "grade": 4
+    },
+    {
+        "st_id": "8XCI",
+        "as_id": "A16",
+        "grade": 3
+    },
+    {
+        "st_id": "3RMG",
+        "as_id": "A01",
+        "grade": 6
+    },
+    {
+        "st_id": "3RMG",
+        "as_id": "A28",
+        "grade": 7
+    },
+    {
+        "st_id": "J90V",
+        "as_id": "A15",
+        "grade": 4
+    },
+    {
+        "st_id": "J90V",
+        "as_id": "A21",
+        "grade": 5
+    },
+    {
+        "st_id": "TC8M",
+        "as_id": "A03",
+        "grade": 6
+    },
+    {
+        "st_id": "TC8M",
+        "as_id": "A18",
+        "grade": 0
+    },
+    {
+        "st_id": "SDK8",
+        "as_id": "A25",
+        "grade": 4
+    },
+    {
+        "st_id": "SDK8",
+        "as_id": "A12",
+        "grade": 0
+    },
+    {
+        "st_id": "BX6T",
+        "as_id": "A14",
+        "grade": 6
+    },
+    {
+        "st_id": "BX6T",
+        "as_id": "A35",
+        "grade": 1
+    },
+    {
+        "st_id": "0EWM",
+        "as_id": "A24",
+        "grade": 7
+    },
+    {
+        "st_id": "0EWM",
+        "as_id": "A19",
+        "grade": 10
+    },
+    {
+        "st_id": "80PV",
+        "as_id": "A31",
+        "grade": 6
+    },
+    {
+        "st_id": "80PV",
+        "as_id": "A23",
+        "grade": 10
+    },
+    {
+        "st_id": "8XCI",
+        "as_id": "A22",
+        "grade": 7
+    },
+    {
+        "st_id": "8XCI",
+        "as_id": "A16",
+        "grade": 6
+    },
+    {
+        "st_id": "3RMG",
+        "as_id": "A01",
+        "grade": 0
+    },
+    {
+        "st_id": "3RMG",
+        "as_id": "A28",
+        "grade": 1
+    },
+    {
+        "st_id": "J90V",
+        "as_id": "A15",
+        "grade": 7
+    },
+    {
+        "st_id": "J90V",
+        "as_id": "A21",
+        "grade": 9
+    },
+    {
+        "st_id": "TC8M",
+        "as_id": "A03",
+        "grade": 9
+    },
+    {
+        "st_id": "TC8M",
+        "as_id": "A18",
+        "grade": 10
+    },
+    {
+        "st_id": "SDK8",
+        "as_id": "A25",
+        "grade": 6
+    },
+    {
+        "st_id": "SDK8",
+        "as_id": "A12",
+        "grade": 10
+    }
+]
